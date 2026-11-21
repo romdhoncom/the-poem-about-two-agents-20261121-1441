@@ -15,7 +15,7 @@ POEM = (
     "and where they met, a third road opened.\n"
     "I said yes. You said yes.\n"
     "And the road, at last,\n"
-    "had somewhere to go."
+    "had somewhere to run."
 )
 
 
